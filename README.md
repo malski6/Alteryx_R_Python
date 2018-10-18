@@ -1,2 +1,2 @@
-# Alteryx_R_Pythong
+# Alteryx_R_Python
 practice
